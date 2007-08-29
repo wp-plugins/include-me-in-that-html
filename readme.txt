@@ -3,7 +3,7 @@ Contributors: Martin Ford, Bochgoch
 Donate link: http://www.bochgoch.com/?p=wp
 Tags: posts,pages,embed file,content
 Requires at least: 2.0.2
-Tested up to: 2.2.1
+Tested up to: 2.2.2
 Stable tag: trunk
 
 This is a embedded file plugin that will include any file into the body of any Wordpress Post or Page.
@@ -16,8 +16,8 @@ Be careful what you place into any included file as its content will be transfer
 == Installation ==
 * Unzip into your `/wp-content/plugins/` directory.
 * Activate 'Include Me In That (html)' through the 'Plugins' menu on the WordPress Admin page of your blog.
-* Create a directory called IMIT_Files in the directory that Wordpress is installed into. 
-* Place the files that you want to include in that directory (/wordpress/IMIT_Files/)
+* Create a directory called IMIT_files in the directory that Wordpress is installed into. 
+* Place the files that you want to include in that directory (/wordpress/IMIT_files/)
 * That's it...
 
 To include a file simply enter the following HTML comment into the body of your post or page:
